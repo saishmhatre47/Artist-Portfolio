@@ -1,2 +1,2 @@
 # Artist-Portfolio
-My Art Website.
+My art website where I will be publishing my artworks !
