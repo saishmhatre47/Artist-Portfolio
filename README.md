@@ -1,2 +1,4 @@
 # Artist-Portfolio
-My art website where I will be publishing my artworks !
+Hello all, this is my art portfolio
+where I publish my realistic oil paintings.
+
